@@ -1,2 +1,2 @@
 # Publications
-This repository includes my research articles that have been pubished or accepted.
+This repository includes my research articles that have been published or accepted.
